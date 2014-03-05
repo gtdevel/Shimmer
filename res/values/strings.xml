@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DTU Shimmer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_connect">Connect to Shimmer</string>
+    <string name="action_disconnect">Disconnect Shimmer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1_name">Change TextView</string>
+    <string name="text_connected">Status: Connected</string>
+    <string name="text_connecting">Status: Connecting</string>
+    <string name="text_not_connected">Status: Not connected</string>
+<string name="text_sampling_rate_na">Sampling rate: N/A</string>
+<string name="text_sampling_rate">Sampling rate: </string>
+</resources>
